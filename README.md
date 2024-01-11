@@ -1,5 +1,5 @@
-![Network Topology](Images/Network.png)
+![Network Topology](images/network.png)
 
-![Ping Test](Images/Ping-Test.png)
+![Ping Test](images/ping-test.png)
 
 ![Vlan-Switch Brief](images/show-vlan-switch-brief.png)
