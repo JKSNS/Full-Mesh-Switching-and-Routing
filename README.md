@@ -1,3 +1,7 @@
+Lab Instructions: 
+
+![Lab Instructions](images/ITC_247_Lab_4_Updated.pdf)
+
 ![Network Topology](images/network.png)
 <br>
 
