@@ -1,5 +1,3 @@
-
-
 ![Lab Instructions PDF:](images/ITC_247_Lab_4_Updated.pdf)
 
 Network Topology: 
