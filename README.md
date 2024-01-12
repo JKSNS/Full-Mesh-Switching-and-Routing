@@ -11,7 +11,6 @@ Ping Test:
 <br>
 
 Vlan-Switch-Brief: 
-
 <br> 
 ![Vlan-Switch-Brief](images/vlan-switch-brie.png)
 <br>
